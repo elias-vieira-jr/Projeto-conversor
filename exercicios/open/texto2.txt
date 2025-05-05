@@ -1,2 +1,0 @@
-A linguagem PYTHON é uma das mais populares do mundo, utilizada em diversas áreas como desenvolvimento web, análise de dados, automação e inteligência artificial.
-Sua sintaxe simplese legível facilita o aprendizado, mesmo para quem está começando na programação.
