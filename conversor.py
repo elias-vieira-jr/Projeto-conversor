@@ -1,6 +1,6 @@
 import csv
 
-with open('original.txt', newline='') as arquivo:
+with open('original.txt', newline='', encoding='latin-1') as arquivo:
     conteudo_arquivo = csv.reader(arquivo, skipinitialspace=True)
 
     topo = '|0000|32787933000167|'
